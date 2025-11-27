@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzkctfsI2x8=",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\Talip_Usta\\TestV1\\MyRepo\\TUsta\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tusta\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0\\microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
